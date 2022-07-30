@@ -1,8 +1,14 @@
 {
   "name": "state-district-component",
   "version": "1.0.2",
-  "description": "a React component for indian states and districts list ",
+  "description": "A React Library for fetching States and districts of India",
   "main": "./build/index.js",
+  "keywords": ["React","Indian States","Indian Districts","Indian State api","Indian State api"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaydeep-shelake/state-district-component"
+  },
+  "homepage": "https://github.com/jaydeep-shelake/state-district-component",
   "scripts": {
     "build": "webpack"
   },
