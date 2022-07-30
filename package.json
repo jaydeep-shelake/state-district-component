@@ -1,6 +1,6 @@
 {
   "name": "state-district-component",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a React component for indian states and districts list ",
   "main": "./build/index.js",
   "scripts": {
